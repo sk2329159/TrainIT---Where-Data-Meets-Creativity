@@ -2,7 +2,7 @@
 # ImpactX - Poverty & Economic Inequality
 
 ## GitHub Repository
-
+https://github.com/sk2329159/TrainIT---Where-Data-Meets-Creativity
 
 ## Project Overview
 Poverty and economic inequality remain significant global challenges that hinder social and economic progress. This project aims to leverage data science techniques to analyze poverty indicators, understand income disparities, and recommend policy interventions that can help bridge economic gaps. By analyzing state-wise per capita income and other socio-economic factors, we derive insights that can be used by policymakers, NGOs, and researchers to implement impactful strategies for poverty alleviation.
